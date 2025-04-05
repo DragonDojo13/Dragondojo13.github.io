@@ -1,5 +1,5 @@
-- title: Name
-  name: Name-1
+- title: Distract
+  name: Distract
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -7,8 +7,8 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-2
+- title: Delegate
+  name: Delegate
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -16,8 +16,8 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
+- title: Document
+  name: Document
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -25,8 +25,8 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
+- title: Delay
+  name: Delay
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
@@ -34,8 +34,8 @@
   topic: Topic
   description: More Info
 
-- title: Name
-  name: Name-3
+- title: Direct
+  name: Direct
   subtitle: Position
   img: TBD.jpg
   thumbnail: TBD.jpg
