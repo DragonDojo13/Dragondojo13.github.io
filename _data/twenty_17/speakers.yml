@@ -1,6 +1,6 @@
 - title: Distract
   name: Distract
-  subtitle: Position
+  subtitle:
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -9,7 +9,7 @@
 
 - title: Delegate
   name: Delegate
-  subtitle: Position
+  subtitle:
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -18,7 +18,7 @@
 
 - title: Document
   name: Document
-  subtitle: Position
+  subtitle:
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -27,7 +27,7 @@
 
 - title: Delay
   name: Delay
-  subtitle: Position
+  subtitle:
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
@@ -36,7 +36,7 @@
 
 - title: Direct
   name: Direct
-  subtitle: Position
+  subtitle: 
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
