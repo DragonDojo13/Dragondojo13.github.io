@@ -14,8 +14,8 @@
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: What to do to Delegate
+  description: Ask for assistance, a resource, or help from a third party.
 
 - title: Document
   name: Document
@@ -23,8 +23,8 @@
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: What to do to Document
+  description: If someone is already helping the person in crisisd, document through photo or video. If not ask someone else to do so
 
 - title: Delay
   name: Delay
@@ -32,8 +32,8 @@
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: What do to Delay
+  description: Check in with the person who was harmed after the incident and educate ourselves and the cummunities on why this happened.
 
 - title: Direct
   name: Direct
@@ -41,5 +41,5 @@
   img: TBD.jpg
   thumbnail: TBD.jpg
   alt: Picture of TBD
-  topic: Topic
-  description: More Info
+  topic: What to do to Direct
+  description: Respond directly to the person causing harm or physically intervene if necessary. Be confident, assertive, and calm.
