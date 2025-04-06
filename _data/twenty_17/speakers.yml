@@ -1,7 +1,7 @@
 - title: Distract
   name: Distract
   subtitle:
-  img: TBD.jpg
+  img: Distract.jpg
   thumbnail: Distract.jpg
   alt: Picture of TBD
   topic: What to do to Distract
@@ -15,13 +15,13 @@ Creating a diversion - "Oh, the music just changed! This is my jam!" and startin
 In the moment - During a meeting, someone makes a biased remark. You could distract by
 
 Asking a question related to the task at hand to shift the focus.
-Saying, "Let's get back to the agenda."
+Saying, "Let's get back to the agenda." test
 
 - title: Delegate
   name: Delegate
   subtitle:
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Deligate.jpg
+  thumbnail: Delegate.jpg
   alt: Picture of TBD
   topic: What to do to Delegate
   description:
@@ -36,8 +36,8 @@ Contacting a specific resource, like campus security or a hotline.
 - title: Document
   name: Document
   subtitle:
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Document.jpg
+  thumbnail: Document.jpg
   alt: Picture of TBD
   topic: What to do to Document
   description:
@@ -55,8 +55,8 @@ Sometimes a combination of these strategies can be most effective.
 - title: Delay
   name: Delay
   subtitle:
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Delay.jpg
+  thumbnail: Delay.jpg
   alt: Picture of TBD
   topic: What do to Delay
   description:
@@ -72,8 +72,8 @@ Speaking to the person who caused harm later, if you feel safe and it's appropri
 - title: Direct
   name: Direct
   subtitle:
-  img: TBD.jpg
-  thumbnail: TBD.jpg
+  img: Direct.jpg
+  thumbnail: Direct.jpg
   alt: Picture of TBD
   topic: What to do to Direct
   description:In the moment:
