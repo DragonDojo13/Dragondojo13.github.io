@@ -5,14 +5,17 @@
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: What to do to Distract
-  description: In the moment: You witness someone making a sexually suggestive comment to a colleague that makes them visibly uncomfortable. You could directly intervene by saying:
-"Hey, that's not appropriate."
-"Can we please keep the conversation professional?"
-"I don't think that comment was necessary."
-To the person being targeted: "Are you okay?"
-After the incident: You see someone being excluded from a group conversation with microaggressions. You could directly address the behavior later by saying to the person who was excluding:
-"I noticed that [person's name] seemed left out of the conversation earlier. Maybe we can be more mindful of including everyone."
+  description:
+In the moment - You see someone at a party getting pressured to drink more alcohol after they've said no. You could distract by
 
+Changing the subject - "Hey, has anyone tried the snacks over there?"
+Physically interrupting - Gently pulling the person away and saying, "Come with me, I want to show you something."
+Creating a diversion - "Oh, the music just changed! This is my jam!" and starting to dance.
+
+In the moment - During a meeting, someone makes a biased remark. You could distract by
+
+Asking a question related to the task at hand to shift the focus.
+Saying, "Let's get back to the agenda."
 
 - title: Delegate
   name: Delegate
@@ -21,7 +24,14 @@ After the incident: You see someone being excluded from a group conversation wit
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: What to do to Delegate
-  description: Ask for assistance, a resource, or help from a third party.
+  description:
+You witness a situation that feels unsafe or beyond your comfort level to handle directly. You could delegate by
+
+Finding someone in a position of authority (e.g., manager, RA, security personnel) and reporting what you've seen. "Excuse me, I just saw [describe the situation], and I'm concerned. Could you please help?"
+
+Asking a group of other bystanders to help. "Hey, I think [person] might need some help. Could a few of us check in?"
+
+Contacting a specific resource, like campus security or a hotline.
 
 - title: Document
   name: Document
@@ -30,7 +40,17 @@ After the incident: You see someone being excluded from a group conversation wit
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: What to do to Document
-  description: If someone is already helping the person in crisisd, document through photo or video. If not ask someone else to do so
+  description:
+Whether you intervene directly or not, documenting what you observed can be helpful
+Writing down the date, time, location, and a detailed account of what you saw and heard.
+
+If you feel comfortable, you could offer your documentation to the person who was harmed, as it might be helpful if they choose to report the incident.
+
+Saving any relevant messages or evidence (if appropriate and safe to do so).
+
+It's important to remember that the best approach depends on the specific situation, your comfort level, and your safety.
+
+Sometimes a combination of these strategies can be most effective.
 
 - title: Delay
   name: Delay
@@ -39,7 +59,15 @@ After the incident: You see someone being excluded from a group conversation wit
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: What do to Delay
-  description: Check in with the person who was harmed after the incident and educate ourselves and the cummunities on why this happened.
+  description:
+You witness or become aware of an incident after it has occurred. You can still delay your intervention by Checking in with the person who was harmed
+"Hey, I heard what happened earlier. Are you okay? Is there anything I can do to support you?"
+
+Offering resources and support - "There are resources available if you want to talk to someone about what happened."
+
+Reporting the incident to the appropriate authorities or channels after the fact.
+
+Speaking to the person who caused harm later, if you feel safe and it's appropriate- "I heard about what happened earlier, and I wanted to say that kind of behavior isn't okay."
 
 - title: Direct
   name: Direct
@@ -48,4 +76,16 @@ After the incident: You see someone being excluded from a group conversation wit
   thumbnail: TBD.jpg
   alt: Picture of TBD
   topic: What to do to Direct
-  description: Respond directly to the person causing harm or physically intervene if necessary. Be confident, assertive, and calm.
+  description:In the moment:
+You witness someone making a sexually suggestive comment to a colleague that makes them visibly uncomfortable. You could directly intervene by saying
+
+"Hey, that's not appropriate."
+"Can we please keep the conversation professional?"
+"I don't think that comment was necessary."
+
+To the person being targeted - "Are you okay?"
+
+After the incident - You see someone being excluded from a group conversation with microaggressions.
+
+You could directly address the behavior later by saying to the person who was excluding
+"I noticed that [person's name] seemed left out of the conversation earlier. Maybe we can be more mindful of including everyone."
